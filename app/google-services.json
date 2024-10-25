@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52216234036",
+    "project_id": "ecotourexpress1096",
+    "storage_bucket": "ecotourexpress1096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52216234036:android:5f3870d97ff7a597deca61",
+        "android_client_info": {
+          "package_name": "com.ecotourexpress.ecotourexpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDch4lkyBw-zKN9-ISe1NA9xpEUpJJzLg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
